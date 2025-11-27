@@ -2,6 +2,10 @@
 
 A minimal, from-scratch neural network implementation in Python using NumPy and SciPy for core operations. This repository is intended for learning and experimentation — it implements basic layers (dense, convolutional), activation functions, loss functions, and small training loops without using high-level deep learning frameworks (except to download datasets).
 
+This project was developed for learning and experimentation and includes code adapted from an educational YouTube tutorial. Inspiration and some implementation ideas were taken from the tutorial at:
+
+https://youtu.be/Lakz2MoHy6o?si=z0mRq38t3pmzf29Y
+
 ## Contents
 
 - `activation.py` / `activations.py` - Activation layer and common activations (Sigmoid, Tanh).
